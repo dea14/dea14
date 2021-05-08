@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 👩🏽‍💻 Previously I've worked as a Software Developer intern at Filament AI, and Interac
 
-💡 I'm currently learning more about Machine Learning technologies.
+💡 Some of my major programming languages include C++, C, Python, and Javascript
 
 👯 I enjoy collaborating in teams!
