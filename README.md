@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Dea 👋
 
 <!--
 **dea14/dea14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📕 I'm a second-year computer science student at the University of Waterloo
+
+👩🏽‍💻 Previously I've worked as a Software Developer intern at Filament AI, and Interac
+
+💡 I'm currently learning more about Machine Learning technologies.
+
+👯 I enjoy collaborating in teams!
