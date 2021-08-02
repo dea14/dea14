@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 📕 I'm a second-year computer science student at the University of Waterloo
 
-👩🏽‍💻 Previously I've worked as a Software Developer intern at Filament AI, and Interac
+👩🏽‍💻 Previously I've worked as a Software Developer intern at Filament AI and Interac
 
 💡 Some of my major programming languages include C++, C, Python, and Javascript
 
