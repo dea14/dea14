@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📕 I'm a second-year computer science student at the University of Waterloo
+📕 I'm a third-year computer science student at the University of Waterloo
 
 👩🏽‍💻 Previously I've worked as a Software Developer intern at HomeX, Filament AI, and Interac
 
