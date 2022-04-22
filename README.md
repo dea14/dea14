@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📕 I'm a third-year computer science student at the University of Waterloo
+<!-- 📕 I'm a third-year computer science student at the University of Waterloo -->
 
-👩🏽‍💻 Previously I've worked as a Software Developer intern at HomeX, Filament AI, and Interac
+<!-- 👩🏽‍💻 Previously I've worked as a Software Developer intern at HomeX, Filament AI, and Interac -->
 
-### Tools and Technologies
+<!-- ### Tools and Technologies
 <div>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-</div>
+</div> -->
